@@ -3,8 +3,6 @@
 Introduction
 This project is a 2D adventure game developed in Java. It includes various classes and components to create a simple 2D game environment where players can explore, interact with objects, and complete objectives.
 
-Components
-
 Main Package
 Main: Contains the main class to run the game.
 EventHandler: Manages game events.
@@ -29,7 +27,7 @@ Main: Main class to run the game.
 Sound: Manages game audio such as music and sound effects.
 UI: Manages the user interface elements such as messages, timers, etc.
 
-Usage
+Maint
 Compile all Java files in the project.
 Run the Main class to start the game.
 Use the keyboard controls to navigate and interact with the game environment.
@@ -37,7 +35,6 @@ Explore the world, collect objects, and complete objectives to progress.
 
 Maintenance
 Maintenance of the game involves regular updates, bug fixes, and improvements to enhance the gaming experience. This includes:
-
 Addressing user feedback and bug reports.
 Adding new features, levels, or game mechanics.
 Optimizing performance and resource usage.
@@ -48,11 +45,8 @@ The Agile software development process is applied in this project. Agile methodo
 
 Possible Usage
 The target market for this game includes:
-
 Casual gamers of all ages looking for a simple yet engaging gameplay experience.
 Fans of 2D adventure games who enjoy exploration, puzzle-solving, and collecting items.
 Game developers and enthusiasts interested in studying Java game development techniques and practices.
 The game can be distributed on various platforms, including desktop computers, web browsers, and mobile devices, making it accessible to a wide audience.
 
-Contributing
-Contributions to the project are welcome! Feel free to submit bug reports, feature requests, or pull requests to improve the game
