@@ -1,73 +1,63 @@
-<h1 align="center">🎮 2D Adventure Game 🕹️</h1>
-<p align="center">
-  <em>An immersive adventure in Java</em>
-</p>
+# 2D Adventure Game
 
-## 📖 Overview
+## Introduction 🚀
+This project is a 2D adventure game developed in Java. It includes various classes and components to create a simple 2D game environment where players can explore, interact with objects, and complete objectives.
 
-Welcome to the 2D Adventure Game project! This is a comprehensive Java-based game that allows players to delve into a simplistic 2D world, solve puzzles and fulfill quests.
-***
-## 🚀 Getting Started
-
-Starting the game is as simple as:
-
-1. Compiling all Java files in the project.
-2. Running the Main class to start the game.
-3. Using the keyboard controls to navigate and interact with the game environment.
-4. Exploring the world, collecting objects, and completing objectives to progress.
-
-***
-## 📁 Modules and Packages
+## Packages and Classes 📦
 
 ### `main` Package
 
-- `Main`: Fires up the ignition sequence 🚗💨
-- `EventHandler`: Oversees all game events 🎉
-- `EventRect`: Crafts an event rectangle in the game world 🌍
+- `Main`: Contains the main class to run the game.
+- `EventHandler`: Manages game events.
+- `EventRect`: Represents an event rectangle in the game world.
 
 ### `objects` Package
 
-- `SuperObject`: Serves as the overlord (superclass) for all game objects 🎩
-- `OBJ_Boots`, `OBJ_Chest`, `OBJ_Door`, `OBJ_Key`: Give life to boots, chests, doors, keys as game objects! 👢💼🚪🔑
+- `SuperObject`: Represents a superclass for all game objects.
+- `OBJ_Boots`: Represents boots as a game object.
+- `OBJ_Chest`: Represents a chest as a game object.
+- `OBJ_Door`: Represents a door as a game object.
+- `OBJ_Key`: Represents a key as a game object.
 
 ### `tile` Package
 
-- `Tile`: Molds a tile in the game world 🧱
-- `TileManager`: Manages tiles and loads the game roadmap 🗺️
+- `Tile`: Represents a tile in the game world.
+- `TileManager`: Manages tiles and loads the game map.
 
 ### `main` Package
 
-- `AssetSetter`: Prepares game assets like objects, keys, doors, etc. 🌐
-- `CollisionChecker`: Ensures physics are obeyed! Checks for collisions between entities and objects in the game 🎳
-- `GamePanel`: Home to the main game panel, the essence of gameplay 🖥️
-- `KeyHandler`: Masterfully manages keyboard input for player controls ⌨️
-- `Main`: The centerpiece of it all, the main class to run the game 🏁
-- `Sound`: Conducts the symphony of the game, managing audio such as music and sound effects 🎵
-- `UI`: Takes charge of user interface elements such as messages, timers, etc. ⏲️
+- `AssetSetter`: Sets up game assets such as objects, keys, doors, etc.
+- `CollisionChecker`: Checks for collisions between entities and objects in the game.
+- `GamePanel`: Represents the main game panel where gameplay occurs.
+- `KeyHandler`: Manages keyboard input for player controls.
+- `Main`: Main class to run the game.
+- `Sound`: Manages game audio such as music and sound effects.
+- `UI`: Manages the user interface elements such as messages, timers, etc.
 
-***
-## 🛠️ Keeping Up
+## Usage 🕹️
 
-Maintenance is key to a seamless gaming experience. Regular updates, bug fixes and improvements, including:
+1. Compile all Java files in the project.
+2. Run the Main class to start the game.
+3. Use the keyboard controls to navigate and interact with the game environment.
+4. Explore the world, collect objects, and complete objectives to progress.
 
-- 🔍 Addressing user feedback and bug reports
-- 🚀 Adding new features, levels, or game mechanics
-- 🧑‍💻 Optimizing performance and resource usage
-- 🎨 Updating game assets such as graphics and sound
-- 🧪 Testing for compatibility with different platforms and devices
+## Maintenance 🛠️
+Maintenance of the game involves regular updates, bug fixes, and improvements to enhance the gaming experience. This includes:
 
-***
-## 🏗️ Agile Software Development
+- Addressing user feedback and bug reports.
+- Adding new features, levels, or game mechanics.
+- Optimizing performance and resource usage.
+- Updating game assets such as graphics and sound.
+- Testing for compatibility with different platforms and devices.
 
-We've adopted the Agile software development ideology. Agile helps us stay flexible, build in iterations, and adapt to changing requirements. Collaboration is at the core of our process, ensuring the game meets user expectations whilst allowing for fast delivery and continuous improvement.
+## Software Development Process 📈
+The Agile software development process is applied in this project. Agile methodologies are chosen for their flexibility, iterative approach, and ability to adapt to changing requirements. This allows for continuous improvement and faster delivery of features. Additionally, Agile encourages collaboration between developers and stakeholders, ensuring that the game meets user expectations.
 
-***
-## 🎯 Diverse Audience 
+## Target Market 🎯
+The target market for this game includes:
 
-The target market for this game is diverse:
+- Casual gamers of all ages looking for a simple yet engaging gameplay experience.
+- Fans of 2D adventure games who enjoy exploration, puzzle-solving, and collecting items.
+- Game developers and enthusiasts interested in studying Java game development techniques and practices.
 
-- 🎮 Casual gamers of all ages seeking an engaging and straightforward gameplay experience
-- 👨‍💻 2D adventure game enthusiasts who enjoy exploration, problem-solving, and collection games
-- 🔍 Game developers and aficionados interested in studying Java game development methodologies
-  
-Accessibility is our top priority, hence, our game can be enjoyed across several platforms, including desktop computers, web browsers, and mobile devices.
+The game can be distributed on various platforms, including desktop computers, web browsers, and mobile devices, making it accessible to a wide audience.
