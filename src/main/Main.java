@@ -10,7 +10,7 @@ public class Main {
         GamePanel gamePanel = new GamePanel();
         window.add(gamePanel);
 
-        window.pack(); // 自动调整窗口大小以适应内容
+        window.pack(); 
 
         window.setLocationRelativeTo(null);
         window.setVisible(true);
