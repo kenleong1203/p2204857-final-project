@@ -1,4 +1,4 @@
-# 2D Adventure Game
+# Blue Boy Adventure Game
 
 ## Introduction 🚀
 This project is a 2D adventure game developed in Java. It includes various classes and components to create a simple 2D game environment where players can explore, interact with objects, and complete objectives.
