@@ -12,7 +12,7 @@ Create your own saga in an enchanting 2D world packed with interesting objects a
 Embark on an enriching journey in a well-rounded gaming environment, designed meticulously with several packages:
 
 ### `entity` Package
-- 'Entity`: The lifeblood of the game dynamics, serving as a base class for entities in diverse roles within the game.
+- `Entity`: The lifeblood of the game dynamics, serving as a base class for entities in diverse roles within the game.
 - `NPC_OldMan`: The wise old sage of every tale, an NPC entity in our game.
 - `Player`: The protagonist of the story, representing you in the virtual realm.
 
