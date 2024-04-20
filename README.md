@@ -1,10 +1,7 @@
 <h1 align="center">💙 Blue Boy Adventure Game 🌍</h1>
 <p align="center">
   <em>A 2D adventure awaits, built with Java and brimming with fun! Begin your quest today!</em>
-  <p align="center">
-  <em>Embark on a whimsical 2D quest built using Java. Begin your exhilarating adventure today!</em>
-<img src="https://github.com/kenleong1203/p2204857-final-project/assets/166484479/3e48050a-b08f-46a6-ac93-3c8f709c3b2b" alt="Game Play Image" />
-</p>
+
 </p>
 
 ## 🚀 Introduction
@@ -77,7 +74,7 @@ We welcome players of all stripes:
 
 Experience Blue Boy Adventure on a platform of your choice - desktop computers, web browsers, or mobile devices.
 
-## Install:
+## 🔽 Installation:
 - Download and play
 - The system requires basic computer configuration to play the game
 - Game capacity: 9.37MB
