@@ -84,7 +84,7 @@ Experience Blue Boy Adventure on a platform of your choice - desktop computers, 
 - https://drive.google.com/drive/folders/1EYxBUwnv-JaW6FAtokm9Iy2N86F1cQz_
 
 ## Demo game play video:
-- https://www.youtube.com/watch?v=lXdMYAyI-Rg&ab_channel=kekene
+- [https://www.youtube.com/watch?v=lXdMYAyI-Rg&ab_channel=kekene](https://www.youtube.com/watch?v=dtXzWcqBRT0&ab_channel=kekene)
 
 ![圖片_20240420151006](https://github.com/kenleong1203/p2204857-final-project/assets/166484479/4e3c7672-cb8e-4097-8225-8a95f8bdd0a9)
 
