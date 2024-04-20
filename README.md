@@ -70,3 +70,6 @@ We welcome players of all stripes:
 - Curious minds interested in Java game development techniques and best practices.
 
 Experience Blue Boy Adventure on a platform of your choice - desktop computers, web browsers, or mobile devices.
+
+![圖片_20240420151006](https://github.com/kenleong1203/p2204857-final-project/assets/166484479/4e3c7672-cb8e-4097-8225-8a95f8bdd0a9)
+
