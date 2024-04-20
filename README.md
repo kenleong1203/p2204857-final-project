@@ -61,8 +61,7 @@ As dedicated game developers, we consistently strive to enhance your gameplay ex
 
 Staying nimble with the Agile software development process, we ensure a game that adapts to you. With a flexible, iterative approach, continuous improvement, emulation of your feedback, and faster feature delivery - we make gaming a collaborative journey.
 
-![Uploading 圖片_20240420151753.jpg…]()
-
+![圖片_20240420151753](https://github.com/kenleong1203/p2204857-final-project/assets/166484479/3e48050a-b08f-46a6-ac93-3c8f709c3b2b)
 
 ## 🎯 One Game, A World of Players
 
